@@ -3,10 +3,10 @@
 ## Objective
 
 MechaCar is AutoRU’s newest prototype car. This analysis aims to 
-•	Perform multiple linear regression analysis to identify the variables in that predict the mpg of MechaCar prototypes
-•	Collect statistics on the PSI (pounds per square inch) of the suspension coils from the manufacturing lots
-•	determine if the manufacturing lots are statistically different from the mean population by running t-tests.
-•	Present a statistical study that compares MechaCar vehicle performance against vehicles from other manufacturers. 
+* Perform multiple linear regression analysis to identify the variables in that predict the mpg of MechaCar prototypes
+* Collect statistics on the PSI (pounds per square inch) of the suspension coils from the manufacturing lots
+* Determine if the manufacturing lots are statistically different from the mean population by running t-tests.
+* Present a statistical study that compares MechaCar vehicle performance against vehicles from other manufacturers. 
 
 ## Linear Regression to Predict MPG
 Please refer to the below snippets for results that will be referred to in the analysis that follows.
