@@ -30,7 +30,7 @@ It is also important to note that the mpg if effected my multiple variables that
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 Look at the data we can see at Lot 1 and Lot 2 have means and medians that have a very small variance. This indicates that Lot 1 and Lot 2 meeting the design specification. 
-However, looking at the data, it is evident that Lot 3 has a variance that is greater than 100 pounds per square inch. Hence, we can conclude that Lot 3 does not meeting the design specifications.
+However, looking at the data, it is evident that Lot 3 has a variance that is greater than 100 pounds per square inch. Hence, we can conclude that Lot 3 does not meeting the design specifications. The variance is above the threshold for this design.
 
 ## T-Test on Suspension Coils
 ### Interpretation and Findings for the t-test results
