@@ -11,7 +11,7 @@ MechaCar is AutoRU’s newest prototype car. This analysis aims to
 ## Linear Regression to Predict MPG
 Please refer to the below snippets for results that will be referred to in the analysis that follows.
 ![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/00941a6e37e9cc09ac2df53a76c798374b170dfe/Resources/1%20Linear%20regression.png)
-![](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/3e0cc161620425301521fc374f15eb1469bfcd8c/Resources/2%20p%20value%20and%20r%20squared.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/3e0cc161620425301521fc374f15eb1469bfcd8c/Resources/2%20p%20value%20and%20r%20squared.png)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and ground clearance provide a non-random amount of variance and hence it can be concluded that they have a significant impact on mpg. 
@@ -25,8 +25,8 @@ It is also important to note that the mpg if effected my multiple variables that
 
 ## Summary Statistics on Suspension Coils
 
-![](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/34017222f12792a34153bb8e438bad4aeb2144f3/Resources/2%20lot%20summary.png)
-![](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/34017222f12792a34153bb8e438bad4aeb2144f3/Resources/2%20total%20summary.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/34017222f12792a34153bb8e438bad4aeb2144f3/Resources/2%20lot%20summary.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/34017222f12792a34153bb8e438bad4aeb2144f3/Resources/2%20total%20summary.png)
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 Look at the data we can see at Lot 1 and Lot 2 have means and medians that have a very small variance. This indicates that Lot 1 and Lot 2 meeting the design specification. 
