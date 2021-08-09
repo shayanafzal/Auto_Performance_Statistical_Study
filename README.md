@@ -11,6 +11,7 @@ MechaCar is AutoRU’s newest prototype car. This analysis aims to
 ## Linear Regression to Predict MPG
 Please refer to the below snippets for results that will be referred to in the analysis that follows.
 ![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/00941a6e37e9cc09ac2df53a76c798374b170dfe/Resources/1%20Linear%20regression.png)
+![](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/3e0cc161620425301521fc374f15eb1469bfcd8c/Resources/2%20p%20value%20and%20r%20squared.png)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and ground clearance provide a non-random amount of variance and hence it can be concluded that they have a significant impact on mpg. 
