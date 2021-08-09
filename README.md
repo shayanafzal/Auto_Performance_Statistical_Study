@@ -30,6 +30,10 @@ However, looking at the data, it is evident that Lot 3 has a variance that is gr
 ## T-Test on Suspension Coils
 ### Interpretation and Findings for the t-test results
 Please refer to the below snippets for test results that will be referred to in the analysis that follows.
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/0f4fce5b3e5fe124921e684bd0116f2ac177c7b6/Resources/3%20all.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/0f4fce5b3e5fe124921e684bd0116f2ac177c7b6/Resources/3%201.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/0f4fce5b3e5fe124921e684bd0116f2ac177c7b6/Resources/3%202.png)
+![A](https://github.com/shayanafzal/MechaCar_Statistical_Analysis/blob/0f4fce5b3e5fe124921e684bd0116f2ac177c7b6/Resources/3%203.png)
 
 Looking at the results above we can see that the p-value for lot 3 of 0.04168 is lower than 0.05. This indicates that the sample mean for Lot 3 is different than the population mean.
 
